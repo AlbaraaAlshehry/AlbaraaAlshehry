@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albaraa</h1>
 <h3 align="center">Passionate about software development specifically in web applications</h3>
 
-- 👨‍💻 All of my projects are available at [https://portifoluo-lmqg.vercel.app](https://portifoluo-lmqg.vercel.app)
+- 👨‍💻 All of my projects are available at [https://portifoluo-lmqg.vercel.app](https://albaraa-portfolio.vercel.app/)
 
 - 📫 How to reach me **Braa.shehri@gmail.com**
 
